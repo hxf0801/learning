@@ -50,3 +50,4 @@ nbdist/
 .metadata/
 Servers/
 RemoteSystemsTempFiles/
+/.recommenders/
